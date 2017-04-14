@@ -1,0 +1,21 @@
+genre_name,genre_id,num_movies
+[u'Drama'],[18],829
+"[u'Drama', u'Thriller']","[18, 53]",729
+[u'Comedy'],[35],683
+[u'Thriller'],[53],681
+"[u'Action', u'Thriller']","[28, 53]",670
+"[u'Drama', u'Comedy']","[18, 35]",419
+"[u'Drama', u'Action', u'Thriller']","[18, 28, 53]",395
+"[u'Drama', u'Romance']","[18, 10749]",324
+"[u'Drama', u'Comedy', u'Romance']","[18, 35, 10749]",298
+[u'Action'],[28],267
+"[u'Drama', u'Action']","[18, 28]",266
+"[u'Comedy', u'Romance']","[35, 10749]",237
+[u'Documentary'],[99],194
+"[u'Action', u'Comedy', u'Thriller']","[28, 35, 53]",155
+"[u'Comedy', u'Thriller']","[35, 53]",155
+"[u'Action', u'Comedy']","[28, 35]",154
+"[u'Animation', u'Action']","[16, 28]",100
+"[u'Animation', u'Action', u'Comedy', u'Family']","[16, 28, 35, 10751]",98
+"[u'Animation', u'Action', u'Family']","[16, 28, 10751]",91
+"[u'Animation', u'Family']","[16, 10751]",82

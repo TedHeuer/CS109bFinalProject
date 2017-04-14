@@ -1,0 +1,8 @@
+genre_name,genre_id,num_movies
+[u'Comedy'],[35],1930
+[u'Action'],[28],1683
+[u'Thriller'],[53],1412
+[u'Romance'],[10749],1221
+[u'Drama'],[18],829
+[u'Animation'],[16],627
+[u'Documentary'],[99],314
